@@ -1,0 +1,9 @@
+RR vs RR :
+Cung uu tien, chung se thay nhau su dung CPU voi mot khoang thoi gian nhat dinh, vi du :
+Process A dung CPU 1 khoang thoi gian, sau do se doi cho cho CPU B
+Khi Process A co uu tien cao hon thi process A se chiem toan bo CPU, process B khong the chay, chi toi
+khi porcess B co uu tien > process A thi process B moi su dung duoc CPU va chiem toan bo CPU
+RR vs RR
+Process A, B co uu tien nhu nhau, tuy nhien khi process B bi pause, process A se chiem toan bo CPU, 
+khi process B resume, ca hai se chia se CPU
+

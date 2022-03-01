@@ -1,0 +1,13 @@
+Other vs Other:
+- Cung uu tien se luan phien thay nhau thuc hien, thoi gian chuyen doi nhanh
+- Process A > process B thi A se chiem gan nhu toan bo thoi gian, thi thoang B se chen vao duoc mot khoang thoi gian ngan
+Other vs Batch :
+- Cung uu tien thi ca hai chiem CPU nhu nhau luan phien nhu other vs other
+- A > B, A se chiem gan nhu toan bo thoi gian, thi thoang B se chen vao
+Other vs IDLE :
+- Cung uu tien hoac uu tien Other > IDEL, Other chiem gan nhu toan bo thoi gian, thi thoang IDLE se chen vao mot chut nhung khong nhieu nhu Batch
+- neu IDLE > Other, other van se chiem nhieu uu tien hon (nice Max la 19, min -20), tuy nhien IDLE chen vao duoc nhieu hon
+- Tien trinh IDLE thi thoang se "idle", bien mat tren top, mot luc sau moi xuat hien :
+Batch vs idle :
+- Cung uu tien : Batch se chiem gan nhu toan bo thoi gian, thi thoang Idle chen vao nhung cuc ki it, khong dang ke
+- IDLE > batch : Luc nay Batch van chiem gan nhu toan bo thoi gian, tuy nhien IDLE da chen vao nhieu hon, luc nay IDLE khong bien mat tren TOP nua

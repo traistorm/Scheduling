@@ -1,0 +1,8 @@
+test sched_ff
+Hai tien trinh cos do uu tien bang nhau thi chi co mot tien trinh chay :
+	Tien trinh nao o muc uu tien do truoc thi se van chay ke ca co cac tien trinh khac cung muc uu tien them vao
+Tien trinh co uu tien cao hon se chiem toan bo CPU
+Khi cho Process B uu tien cao hon Process A, process B se the cho process A va chiem toan bo CPU
+FF vs Other
+Tien trinh B chay o FF, A or Other:
+- Tien trinh B chiem toan bo CPU
